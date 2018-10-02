@@ -1,0 +1,1 @@
+The file measurement_error_house.r  fits the Models in Suesse (2017) “Estimation of Spatial Autoregressive Models with Measurement Error for Large Data Sets” to be published in Computational Statistics.
